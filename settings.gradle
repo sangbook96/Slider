@@ -1,0 +1,3 @@
+include ':Slider'
+include ':app'
+rootProject.name = "Slide"
